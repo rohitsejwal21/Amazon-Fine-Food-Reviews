@@ -1,0 +1,1 @@
+Since the dataset is a bit large. The link to it is: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
